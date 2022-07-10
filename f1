@@ -1,0 +1,23 @@
+Dear all i am trying to learn AWS devops.
+
+git init
+
+git status
+
+touch file name
+
+cat file name
+
+ll
+
+ls -lrth
+
+rm -rf
+
+git commit -m " label or message"
+
+git reset --soft " commit id"
+
+git reset -- misxed "commit id"
+
+git reset head file name
